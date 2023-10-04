@@ -1,6 +1,12 @@
 # Subspace assignment
 
-A new Flutter project.
+Thank you for considering my application. I am very excited to work with you guys in the future
+
+## Features
+
+- API Integration.
+- Offline Mode.
+- Add to favourites feature.
 
 ## Screenshots
 
