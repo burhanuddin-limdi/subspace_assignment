@@ -5,13 +5,13 @@ A new Flutter project.
 ## Screenshots
 
 <div style="display: flex; justify-content: space-between;">
-  <img src="assets/screenshots/screenshot-1.jpg" alt="Screenshot 1" width="150">
-  <img src="assets/screenshots/screenshot-2.jpg" alt="Screenshot 2" width="150">
+  <img src="assets/screenshots/screenshot-1.png" alt="Screenshot 1" width="150">
+  <img src="assets/screenshots/screenshot-2.png" alt="Screenshot 2" width="150">
 </div>
 
 ## Screen Recording
 
-<video >
+<video src='assets/screen%20recordings/recording.mp4'>
 
 ## Download The App
 
