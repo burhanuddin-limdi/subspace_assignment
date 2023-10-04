@@ -9,13 +9,9 @@ A new Flutter project.
   <img src="assets/screenshots/screenshot-2.png" alt="Screenshot 2" width="150">
 </div>
 
-## Screen Recording
-
-<video src='assets/screen%20recordings/recording.mp4'>
-
 ## Download The App
 
-Go to the releases section or click <a href='https://github.com/burhanuddin-limdi/subspec_project/releases'>here</a>
+Go to the releases section or click <a href='https://github.com/burhanuddin-limdi/subspace_assignment/releases'>here</a>
 
 ## Installation
 
