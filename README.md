@@ -15,10 +15,6 @@ Thank you for considering my application. I am very excited to work with you guy
   <img src="assets/screenshots/screenshot-2.png" alt="Screenshot 2" width="150">
 </div>
 
-## Download The App
-
-Go to the releases section or click <a href='https://github.com/burhanuddin-limdi/subspace_assignment/releases'>here</a>
-
 ## Installation
 
 Follow these steps to get MusicStream Pro up and running on your device:
