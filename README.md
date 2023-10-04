@@ -1,4 +1,4 @@
-# subspace_project
+# Subspace assignment
 
 A new Flutter project.
 
@@ -15,7 +15,7 @@ A new Flutter project.
 
 ## Download The App
 
-Go to the releases section or click <a href='https://github.com/burhanuddin-limdi/limusic/releases'>here</a>
+Go to the releases section or click <a href='https://github.com/burhanuddin-limdi/subspec_project/releases'>here</a>
 
 ## Installation
 
