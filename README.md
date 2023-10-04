@@ -2,15 +2,45 @@
 
 A new Flutter project.
 
-## Getting Started
+## Screenshots
 
-This project is a starting point for a Flutter application.
+<div style="display: flex; justify-content: space-between;">
+  <img src="assets/screenshots/screenshot-1.jpg" alt="Screenshot 1" width="150">
+  <img src="assets/screenshots/screenshot-2.jpg" alt="Screenshot 2" width="150">
+</div>
 
-A few resources to get you started if this is your first Flutter project:
+## Screen Recording
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+<video >
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Download The App
+
+Go to the releases section or click <a href='https://github.com/burhanuddin-limdi/limusic/releases'>here</a>
+
+## Installation
+
+Follow these steps to get MusicStream Pro up and running on your device:
+
+1. Clone this repository to your local machine:
+
+   ```sh
+   git clone https://github.com/burhanuddin-limdi/limusic.git
+   ```
+
+2. Navigate to the project directory:
+
+   ```sh
+   cd limusic
+   ```
+
+3. Install the required dependencies:
+
+   ```sh
+   flutter pub get
+   ```
+
+4. Run the app:
+
+   ```sh
+   flutter run
+   ```
