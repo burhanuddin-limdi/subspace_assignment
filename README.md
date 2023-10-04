@@ -26,13 +26,13 @@ Follow these steps to get MusicStream Pro up and running on your device:
 1. Clone this repository to your local machine:
 
    ```sh
-   git clone https://github.com/burhanuddin-limdi/limusic.git
+   git clone https://github.com/burhanuddin-limdi/subspace_assignment.git
    ```
 
 2. Navigate to the project directory:
 
    ```sh
-   cd limusic
+   cd subspace_assignment
    ```
 
 3. Install the required dependencies:
